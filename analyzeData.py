@@ -4,7 +4,7 @@ import plotly.express as px # pacote de gráficos
 
 # Passo 1 - Importar a base de dados
 
-table = pd.read_csv(r'C:\Users\gusta\Downloads\telecom_users.csv')
+table = pd.read_csv('telecom_users.csv')
 
 # Passo 2 - Visualizar a base de dados
 
